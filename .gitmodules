@@ -1,0 +1,3 @@
+[submodule "provisioning"]
+	path = provisioning
+	url = https://github.com/rtnpro/ansible-centos-7-atomic.git
